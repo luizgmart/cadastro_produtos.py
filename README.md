@@ -1,1 +1,1 @@
-Sistema de gerenciamento, cadastro e listagem de produtos.
+Product management, registration and listing system.
